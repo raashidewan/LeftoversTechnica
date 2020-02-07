@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.jasmineparekh.leftoverss">
+    package="com.example.raash.leftoverss">
 
 
 
@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <activity android:name=".MainActivity"
+        <activity android:name="com.example.raash.leftoverss.MainActivity"
             android:screenOrientation="portrait">
 
             <meta-data
@@ -21,15 +21,15 @@
 
 
         </activity>
-        <activity android:name=".RecipeListActivity"
+        <activity android:name="com.example.raash.leftoverss.RecipeListActivity"
             android:screenOrientation="portrait">
 
         </activity>
-        <activity android:name=".RecipeDetailsActivity"
+        <activity android:name="com.example.raash.leftoverss.RecipeDetailsActivity"
             android:screenOrientation="portrait">
 
         </activity>
-        <activity android:name=".StartActivity"
+        <activity android:name="com.example.raash.leftoverss.StartActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

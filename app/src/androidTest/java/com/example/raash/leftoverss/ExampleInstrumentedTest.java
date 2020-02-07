@@ -1,4 +1,4 @@
-package com.example.jasmineparekh.leftoverss;
+package com.example.raash.leftoverss;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.jasmineparekh.leftoverss", appContext.getPackageName());
+        assertEquals("com.example.raash.leftoverss", appContext.getPackageName());
     }
 }

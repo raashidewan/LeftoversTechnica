@@ -1,12 +1,6 @@
-package com.example.jasmineparekh.leftoverss;
-
-import android.telecom.Call;
-import android.util.Log;
+package com.example.raash.leftoverss;
 
 import android.util.Log;
-
-import com.example.jasmineparekh.leftoverss.Constants;
-import com.example.jasmineparekh.leftoverss.Recipe;
 
 import org.json.JSONArray;
 import org.json.JSONException;

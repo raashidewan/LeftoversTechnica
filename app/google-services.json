@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1071665709747:android:13a3d46563ffb720",
         "android_client_info": {
-          "package_name": "com.example.jasmineparekh.leftoverss"
+          "package_name": "com.example.raash.leftoverss"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "1071665709747-kqcmqnmghlubsu5rjdcu5ue54ao5e29b.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.jasmineparekh.leftoverss",
+            "package_name": "com.example.raash.leftoverss",
             "certificate_hash": "fd7e0d5b87dcfc410334f880757a503ae1d3a4e4"
           }
         },
